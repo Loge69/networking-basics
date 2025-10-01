@@ -1,6 +1,7 @@
 Open System interconnection was introduced to make
 the communication standardize between different vendors
 in the old times.they are basically rules or protocols.
+
 Concepts:
 1. each layer is a set  of protocols or rules.
 2. when sending data it moves from application ,presentation ,session, transport , network ,data link, physical laer and when recieving the protocol check is in vice versa direction.
